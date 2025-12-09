@@ -1,0 +1,5 @@
+**/*zip
+.direnv
+
+# Ignore tmp directories: data_split
+data_split
